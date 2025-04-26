@@ -1,0 +1,11 @@
+numpy
+requests
+torch
+torchvision
+pillow
+fastapi
+pydantic
+starlette
+uvicorn
+aiofiles
+python-dotenv
